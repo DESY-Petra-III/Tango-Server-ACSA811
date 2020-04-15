@@ -12,7 +12,7 @@ It is memorized attribute, still, the issue with this attribute, that it is save
 - thread for the socket reconnection
 
 ## Implementation
-Implemented using Python 3. 
+Implemented using Python 3. Code successfully tested on Win10, Linux should work as well.
 The following libraries are required.
 
 		pip install numpy pytango
